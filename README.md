@@ -46,6 +46,3 @@ Console.WriteLine(string.Join(Environment.NewLine, result, 0, realSize));
 "A",
 "try",
 "2"
-#� �T�a�s�k�C�o�n�t�r�o�l�
-�
-�
