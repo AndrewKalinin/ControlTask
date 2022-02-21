@@ -35,3 +35,8 @@ foreach (var value in array)
  
 Console.WriteLine(string.Join(Environment.NewLine, result, 0, realSize));
 
+## *Результат решения задачи*
+"56",
+"A",
+"try",
+"2"
